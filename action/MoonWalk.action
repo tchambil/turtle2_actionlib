@@ -1,0 +1,8 @@
+#goal definition
+int32 step
+---
+#result definition
+string success
+---
+#feedback
+string status
